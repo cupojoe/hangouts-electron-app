@@ -15,10 +15,10 @@
   "author": "Joe Fraga",
   "license": "ISC",
   "devDependencies": {
-    "electron-packager": "^10.1.0",
-    "electron-prebuilt": "^1.4.13"
+    "electron": "^8.0.2",
+    "electron-packager": "^14.2.1"
   },
   "dependencies": {
-    "open": "0.0.5"
+    "open": "^7.0.2"
   }
 }
