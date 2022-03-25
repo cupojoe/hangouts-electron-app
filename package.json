@@ -15,7 +15,7 @@
   "author": "Joe Fraga",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^8.0.2",
+    "electron": "^13.6.6",
     "electron-packager": "^14.2.1"
   },
   "dependencies": {
